@@ -1,0 +1,2 @@
+# mario
+Just another repository
